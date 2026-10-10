@@ -57,6 +57,7 @@
 /dev/nvgpu/igpu0/dbg   0666   root   root
 /dev/nvgpu/igpu0/prof  0666   root   root
 /dev/nvgpu/igpu0/tsg   0666   root   root
+/dev/l3cache           0666   root   root
 /dev/tlk_device        0660   system drmrpc
 /dev/trusty-ipc-dev0   0660   system drmrpc
 /dev/block/mmcblk0rpmb 0600   system drmrpc
